@@ -1,0 +1,44 @@
+{
+  "defaultSeverity": "error",
+  "rules": {
+    "adjacent-overload-signatures": true,
+    "ban-types": [
+      true,
+      ["Boolean", "Use boolean instead"],
+      ["Number", "Use number instead"],
+      ["String", "Use string instead"],
+      ["Object", "Use object instead"]
+    ],
+    "member-access": [
+      true,
+      "check-accessor",
+      "check-constructor"
+    ],
+    "member-ordering": [
+      true,
+      {
+        "order": [
+          "private-static-field",
+          "protected-static-field",
+          "public-static-field",
+          "private-instance-field",
+          "protected-instance-field",
+          "public-instance-field",
+          "public-constructor",
+          "protected-constructor",
+          "private-constructor",
+          "public-instance-method",
+          "protected-instance-method",
+          "private-instance-method",
+          "public-static-method",
+          "protected-static-method",
+          "private-static-method"
+        ]
+      }
+    ],
+    "no-any": true,
+    "no-empty-interface": false,
+    "no-import-side-effect": false,
+    "no-inferrable-types": false
+  }
+}
