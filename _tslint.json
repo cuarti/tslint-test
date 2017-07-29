@@ -1,0 +1,46 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space",
+      "check-lowercase"
+    ],
+    "curly": true,
+    "eofline": true,
+    "forin": true,
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "label-position": true,
+    "max-line-length": [
+      true,
+      140
+    ],
+    "no-consecutive-blank-lines": false,
+    "ordered-imports": false,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "whitespace": [
+      true,
+      "check-decl",
+      "check-operator",
+      "check-module",
+      "check-separator",
+      "check-type",
+      "check-typecast",
+      "check-preblock"
+    ],
+    "arrow-parens": [
+      true,
+      "ban-single-arg-parens"
+    ],
+    "no-shadowed-variable": false,
+    "prefer-const": false,
+    "trailing-comma": false
+  }
+}

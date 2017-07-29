@@ -15,3 +15,19 @@ Need to use empty interface that extends from some interfaces or for one generic
 
 no-import-side-effect
 ---
+
+no-inferrable-types
+---
+
+no-magic-numbers
+---
+
+no-non-null-assertion
+---
+
+no-unnecessary-type-assertion
+---
+
+no-var-requires
+---
+Need var-requires to import style or json without having declaration of module
