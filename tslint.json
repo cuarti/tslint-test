@@ -46,7 +46,16 @@
     "no-non-null-assertion": true,
     "no-reference": true,
     "no-unnecessary-type-assertion": false,
-    "no-var-requires": false
-
+    "no-var-requires": false,
+    "only-arrow-functions": false,
+    "prefer-for-of": true,
+    "promise-function-async": false,
+    "typedef": [
+      true,
+      "call-signature",
+      "arrow-call-signature",
+      "parameter",
+      "arrow-parameter"
+    ]
   }
 }

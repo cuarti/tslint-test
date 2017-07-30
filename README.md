@@ -31,3 +31,12 @@ no-unnecessary-type-assertion
 no-var-requires
 ---
 Need var-requires to import style or json without having declaration of module
+
+only-arrow-functions
+---
+Some callbacks need access to this context
+
+typedef
+---
+
+
