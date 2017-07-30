@@ -25,16 +25,16 @@ declare namespace DeclaredNamespace {
 //     return 'foo';
 // }
 
-function funcWithReturn2(): string {
+function funcWithReturn2():string {
     return 'foo';
 }
 
 // TSLINT: typedef (arrow-call-signature)
-// let arrowWithReturn1: Function = () => {
+// let arrowWithReturn1 = () => {
 //     return 'foo';
 // };
 
-let arrowWithReturn2: Function = (): string => {
+let arrowWithReturn2 = (): string => {
     return 'foo';
 };
 
@@ -48,10 +48,30 @@ function funcWithParam2(param: string): void {
 }
 
 // TSLINT: typedef (arrow-parameter)
-// let arrowWithParam1: Function = (param): void => {
+// let arrowWithParam1 = (param): void => {
 //     console.log(param);
 // };
 
-let arrowWithParam2: Function = (param: string): void => {
+let arrowWithParam2 = (param: string):void => {
     console.log(param);
 };
+
+// TSLINT: typedef (property-declaration)
+// interface Interface1 {
+//     name;
+// }
+
+interface Interface2 {
+    name: string;
+}
+
+// TSLINT: typedef (member-variable-declaration)
+// class Class1 {
+//     public name;
+// }
+
+class Class2 {
+    public name: string;
+}
+
+let obj: {[key: string]: string} = {};

@@ -38,5 +38,13 @@ Some callbacks need access to this context
 
 typedef
 ---
+Specify examples for non using of variable-declaration, object-destructuring and array-destructuring
 
 
+typedef-whitespace
+---
+Specify examples for non use
+
+unified-signatures
+---
+Specify examples for use
