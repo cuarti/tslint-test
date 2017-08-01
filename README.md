@@ -48,3 +48,59 @@ Specify examples for non use
 unified-signatures
 ---
 Specify examples for use
+
+await-promise
+---
+
+ban
+---
+
+curly
+---
+Need tests
+
+forin
+---
+Need tests
+
+import-blacklist
+---
+
+label-position
+---
+
+no-arg
+---
+
+no-bitwise
+---
+
+no-conditional-assignment
+---
+
+no-console
+---
+
+no-construct
+---
+Need tests
+
+no-debugger
+---
+Need tests
+
+no-duplicate-super
+---
+Need tests
+
+no-duplicate-variable
+---
+Need tests
+
+no-empty
+---
+Need tests
+
+No-eval
+---
+Need tests
