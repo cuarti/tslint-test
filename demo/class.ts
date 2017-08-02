@@ -79,7 +79,7 @@ class User {
     //     return false;
     // }
 
-    public greet(): void;
+    // public greet(): void;
     public greet(target: string): void;
 
     // TSLINT: adjacent-overload-signatures

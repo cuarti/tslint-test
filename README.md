@@ -104,3 +104,75 @@ Need tests
 No-eval
 ---
 Need tests
+
+no-floating-promises
+---
+Need type checking
+
+no-for-in-array
+---
+Need tests. Need type checking
+
+no-inferred-empty-object-type
+---
+Need tests. Need type checking
+
+no-invalid-template-strings
+---
+Need tests
+
+no-invalid-this
+---
+Need tests
+
+no-misused-new
+---
+
+no-null-keyword
+---
+Need tests
+
+no-object-literal-type-assertion
+---
+Need tests
+
+no-shadowed-variable
+---
+
+no-sparse-arrays
+---
+Need tests
+
+no-string-literal
+---
+Need tests
+
+no-string-throw
+---
+
+no-switch-case-fall-through
+---
+
+no-this-assignment
+---
+Need tests
+
+no-unbound-method
+---
+Need tests. Need type checking
+
+no-unsafe-any
+---
+Need tests. Need type checking
+
+no-unsafe-finally
+---
+Need tests
+
+no-unused-expression
+---
+Need tests
+
+no-unused-variable
+---
+Need tests. Need type checking

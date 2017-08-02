@@ -17,7 +17,7 @@ let s2: string = 'foo';
 let o2: object = {};
 
 
-let v1 = null;
+let v1 = undefined;
 
 // TSLINT: no-any
-// let v2: any = null;
+// let v2: any = undefined;
