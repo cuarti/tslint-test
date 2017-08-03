@@ -176,3 +176,57 @@ Need tests
 no-unused-variable
 ---
 Need tests. Need type checking
+
+no-use-before-declare
+---
+Need tests. Need type checking
+
+no-var-keyword
+---
+Need tests
+
+no-void-expression
+---
+Need tests. Need type checking
+
+prefer-conditional-expression
+---
+Need tests
+
+prefer-object-spread
+---
+Need tests
+
+radix
+---
+Need tests
+
+restrict-plus-operands
+---
+Need tests. Need type checking
+
+strict-boolean-expressions
+---
+
+strict-type-predicates
+---
+Need tests. Need type checking
+
+switch-default
+---
+Need tests
+
+triple-equals
+---
+Need tests
+
+typeof-compare
+---
+Need tests
+
+use-default-type-parameter
+---
+
+use-isnan
+---
+Need tests
