@@ -230,3 +230,56 @@ use-default-type-parameter
 use-isnan
 ---
 Need tests
+
+cyclomatic-complexity
+---
+
+deprecation
+---
+Need tests. Need type checking
+
+eofline
+---
+Need tests
+
+indent
+---
+Need tests
+
+linebreak-style
+---
+Need tests
+
+max-classes-per-file
+---
+
+max-file-line-count
+---
+
+max-line-length
+---
+Need tests
+
+no-default-export
+---
+Need tests
+
+no-mergeable-namespace
+---
+Need tests
+
+no-require-imports
+---
+Need tests
+
+object-literal-sort-keys
+---
+Need tests
+
+prefer-const
+---
+Need tests
+
+trailing-comma
+---
+Need tests
