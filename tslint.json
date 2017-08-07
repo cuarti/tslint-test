@@ -156,6 +156,24 @@
     "no-require-imports": false,
     "object-literal-sort-keys": false,
     "prefer-const": false,
-    "trailing-comma": false
+    "trailing-comma": false,
+    "align": [
+      true,
+      "parameters",
+      "arguments",
+      "statements",
+      "members",
+      "elements"
+    ],
+    "array-type": [true, "array"],
+    "arrow-parens": [true, "ban-single-arg-parens"],
+    "arrow-return-shorthand": true,
+    "binary-expression-operand-order": true,
+    "callable-types": true,
+    "class-name": true,
+    "comment-format": [true, "check-space", "check-uppercase"],
+    "completed-docs": true,
+    "encoding": true,
+    "file-header": false
   }
 }

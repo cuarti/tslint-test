@@ -283,3 +283,47 @@ Need tests
 trailing-comma
 ---
 Need tests
+
+align
+---
+Need tests
+
+array-type
+---
+Need tests
+
+arrow-parens
+---
+Need tests
+
+arrow-return-shorthand
+---
+Need tests
+
+binary-expression-operand-order
+---
+Need tests
+
+callable-types
+---
+
+class-name
+---
+Need tests
+
+comment-format
+---
+Need tests
+
+completed-docs
+---
+Need tests
+
+encoding
+---
+Need tests
+
+file-header
+---
+
+
