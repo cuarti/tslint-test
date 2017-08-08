@@ -174,6 +174,16 @@
     "comment-format": [true, "check-space", "check-uppercase"],
     "completed-docs": true,
     "encoding": true,
-    "file-header": false
+    "file-header": false,
+    "import-spacing": true,
+    "interface-name": [true, "never-prefix"],
+    "interface-over-type-literal": true,
+    "jsdoc-format": true,
+    "match-default-export-name": false,
+    "newline-before-return": true,
+    "new-parens": true,
+    "no-angle-bracket-type-assertion": true,
+    "no-boolean-literal-compare": true,
+    "no-consecutive-blank-lines": [true, 2]
   }
 }

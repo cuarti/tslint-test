@@ -326,4 +326,44 @@ Need tests
 file-header
 ---
 
+import-spacing
+---
+Need tests
+
+interface-name
+---
+Need tests
+
+interface-over-type-literal
+---
+Need tests
+
+jsdoc-format
+---
+Need tests
+
+match-default-export-name
+---
+Need tests. Need type checking
+
+newline-before-return
+---
+Need tests
+
+new-parens
+---
+Need tests
+
+no-angle-bracket-type-assertion
+---
+Need tests
+
+no-boolean-literal-compare
+---
+Need tests
+
+no-consecutive-blank-lines
+---
+Need tests
+
 
